@@ -1,4 +1,4 @@
-# NBU_Project_Diploma
+# Designed and implemented a server-client sensor data monitoring system
 
 
 Echo Client and Server with Logging
