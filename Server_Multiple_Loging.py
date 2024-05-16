@@ -1,3 +1,5 @@
+#server_logging_store_data
+
 import socket
 import logging
 from datetime import datetime
